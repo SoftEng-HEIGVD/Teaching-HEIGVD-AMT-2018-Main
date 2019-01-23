@@ -9,3 +9,4 @@ This is the main repo for the 2018 edition of the AMT course, at the HEIG-VD. It
 * The simple MVC project, used during the second week, is available in the [SoftEng-HEIGVD/Teaching-HEIGVD-AMT-MVC-simple-example](https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-AMT-MVC-simple-example) repo. It shows how to implement the MVC design pattern with servlets and JSPs. It also contains instructions for settting up IntelliJ IDEA in order to control a local application server from the IDE. Several branches are available on the repo.
 * The Youtube playlist is available [here](https://www.youtube.com/playlist?list=PLfKkysTy70QZ619qRZfFMOv0fT4o9oLGJ).
 
+testing workflow
